@@ -2,28 +2,25 @@
 
 ## Overview
 
-This project is a comprehensive **data analysis and visualization application** built using **Streamlit** and **Python**. It provides insightful visualizations and trends for engagement patterns, course completion, student enrolments, and other related metrics.
+This **Streamlit** app provides a comprehensive platform for analyzing and visualizing engagement patterns, course completion rates, student enrolments, and feedback ratings. It is built using **Python**, **Pandas**, **Matplotlib**, and **Seaborn** to offer insightful visualizations and actionable data trends.
 
-The app integrates multiple datasets, processes the data, and presents meaningful visualizations using libraries like **Pandas**, **Matplotlib**, and **Seaborn**. It allows for an easy-to-use interface where users can interact with the data and explore trends, insights, and recommendations over time.
+## Key Features
 
-## Features
-
-- **Engagement Patterns by Course and Demographics**: Visualizes average engagement over time based on user demographics.
-- **Feedback Ratings Comparison**: Compares and tracks feedback ratings across courses.
-- **Trends Over Time**: Displays trends for engagement, course completion, and student enrolments.
-- **Insights and Recommendations**: Provides data-driven insights and action points based on the analysis.
+- **Engagement by Course and Demographics**: Visualize engagement metrics for different courses and demographics.
+- **Feedback Comparison**: Analyze feedback ratings across different courses.
+- **Trends Over Time**: Track trends related to student engagement, course completion, and enrolment over time.
+- **Data Insights and Recommendations**: Provides clear insights based on data analysis, helping in decision-making.
 
 ## Technologies Used
 
 - **Streamlit**: For building the interactive web app.
 - **Pandas**: For data manipulation and analysis.
-- **Matplotlib**: For creating visualizations (e.g., bar charts, line charts, etc.).
-- **Seaborn**: For generating statistical graphics.
-- **NumPy**: For numerical computations.
-- **Python 3.x**: The main programming language used for analysis and backend logic.
+- **Matplotlib & Seaborn**: For creating statistical visualizations (charts, graphs, etc.).
+- **NumPy**: For handling numerical computations.
+- **Python 3.10**: The core programming language.
 
 ## Installation
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/streamlit-data-analysis-app.git
+   git clone https://github.com/AdarshRaj08/Zylentrix
