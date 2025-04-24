@@ -1,5 +1,7 @@
 # Data Analysis and Visualization Streamlit App
 
+Go on this link project is deployed - https://zylentrix-4zr5kp3wefwycujh3kfko8.streamlit.app/
+
 ## Overview
 
 This **Streamlit** app provides a comprehensive platform for analyzing and visualizing engagement patterns, course completion rates, student enrolments, and feedback ratings. It is built using **Python**, **Pandas**, **Matplotlib**, and **Seaborn** to offer insightful visualizations and actionable data trends.
